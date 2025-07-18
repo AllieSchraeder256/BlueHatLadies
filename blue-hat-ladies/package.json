@@ -16,7 +16,7 @@
     "reactstrap": "^9.2.3",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://AllieSchraeder256.github.io/BlueHatLadies",
+  "homepage": "https://bluehatladies.org",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
