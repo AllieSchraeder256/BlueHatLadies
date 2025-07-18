@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BlueHatLadies/static/css/main.cd18b1dc.css",
-    "main.js": "/BlueHatLadies/static/js/main.0033acff.js",
+    "main.js": "/BlueHatLadies/static/js/main.0760db93.js",
     "static/js/453.866eb529.chunk.js": "/BlueHatLadies/static/js/453.866eb529.chunk.js",
     "index.html": "/BlueHatLadies/index.html",
     "main.cd18b1dc.css.map": "/BlueHatLadies/static/css/main.cd18b1dc.css.map",
-    "main.0033acff.js.map": "/BlueHatLadies/static/js/main.0033acff.js.map",
+    "main.0760db93.js.map": "/BlueHatLadies/static/js/main.0760db93.js.map",
     "453.866eb529.chunk.js.map": "/BlueHatLadies/static/js/453.866eb529.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd18b1dc.css",
-    "static/js/main.0033acff.js"
+    "static/js/main.0760db93.js"
   ]
 }
